@@ -1,16 +1,22 @@
-### Hi there 👋
+Hey there! 👋 My name is Johnny Gomes
+=============================
 
-<!--
-**johnnysn/johnnysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer, full-stack developer
+---------------------------------------
 
-Here are some ideas to get you started:
+I'm a full-stack developer with 9+ years designing and developing digital systems. My focus for the past 4 years has centered around Java backend development using the Spring Framework. My journey also involves C++ and CUDA-powered applications in numerical methods and high-performance computing. Additionally, I have a passion for robotics, electronics and automation. If bytes, gears, and elegant solutions resonate with you, let's connect and collaborate! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Juiz de Fora / Brazil
+* 🧠  I'm learning React and Next.js
+
+### Skills
+
+
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/johnnysn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/johnny-gomes-2672b7121" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
