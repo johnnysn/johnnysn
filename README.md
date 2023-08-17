@@ -11,10 +11,7 @@ I'm a full-stack developer with 9+ years designing and developing digital system
 
 ### Skills
 
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,cpp,angular,react,docker)](https://skills.thijs.gg)
 
 
 ### Socials
